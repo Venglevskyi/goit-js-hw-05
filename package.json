@@ -1,5 +1,5 @@
 {
-  "name": "goit-js-hm-04",
+  "name": "goit-js-hm-05",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Venglevskyi/goit-js-hw-04.git"
+    "url": "git+https://github.com/Venglevskyi/goit-js-hw-05.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Venglevskyi/goit-js-hw-04/issues"
+    "url": "https://github.com/Venglevskyi/goit-js-hw-05/issues"
   },
-  "homepage": "https://github.com/Venglevskyi/goit-js-hw-04#readme",
+  "homepage": "https://github.com/Venglevskyi/goit-js-hw-05#readme",
   "devDependencies": {
     "eslint": "^6.3.0",
     "eslint-config-airbnb-base": "^14.0.0",
