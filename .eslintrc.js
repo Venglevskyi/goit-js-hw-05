@@ -15,7 +15,8 @@ module.exports = {
     rules: {
       "no-console": "off",
       "no-alert": "off",
-      "no-restricted-syntax": ["error", "ForInStatement", "LabeledStatement", "WithStatement"]
+      "no-restricted-syntax": ["error", "ForInStatement", "LabeledStatement", "WithStatement"],
+      "no-underscore-dangle": ["error", { "allowAfterThis": true }]
     }
   };
   
